@@ -1,3 +1,3 @@
 #!/bin/bash
-samaya purathu ammal
+samaya purathu ammal ellamaal Periyasamy
 
